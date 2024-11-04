@@ -1,4 +1,4 @@
-def sort_todo_list_by_time(todo_list)
+def sort_todo_list_by_time(todo_list):
     try:
         sorted_todo_list = sorted(
             todo_list.items()
